@@ -10,7 +10,7 @@ Get 2FA Code with API of 2fa.live
 
 ### Installing
 
-* Clone Git of download zip file 👌
+* Clone Git or download zip file 👌
 
 ### Executing program
 
